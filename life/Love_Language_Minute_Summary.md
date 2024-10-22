@@ -1,4 +1,4 @@
-# Summary of *Love Language Minute for Couples: 100 Days to a Closer Relationship* by Gary Chapman (Days 1 to 30)
+# Summary of *Love Language Minute for Couples: 100 Days to a Closer Relationship* by Gary Chapman (Days 1 to 100)
 
 ---
 
