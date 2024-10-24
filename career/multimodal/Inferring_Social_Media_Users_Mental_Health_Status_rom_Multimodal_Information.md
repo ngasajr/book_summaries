@@ -1,4 +1,4 @@
-# Summary of *Inferring Social Media Users' Mental Health Status from Multimodal Information*
+# Summary of *Inferring Social Media Users' Mental Health Status from Multimodal Information* by Xu, Z., Pérez-Rosas, V. and Mihalcea, R., 2020, May. 
 
 **Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020)**
 
