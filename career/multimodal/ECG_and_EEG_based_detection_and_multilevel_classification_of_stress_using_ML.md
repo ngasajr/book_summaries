@@ -54,3 +54,7 @@ This study demonstrated the effectiveness of combining ECG and EEG signals for s
 
 ---
 
+## Repository to Check
+
+This repository introduces MentaLLaMA, the first open-source instruction following large language model for interpretable mental health analysis.**https://github.com/SteveKGYang/MentalLLaMA**
+
