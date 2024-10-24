@@ -1,5 +1,7 @@
 # Summary of *Inferring Social Media Users' Mental Health Status from Multimodal Information*
 
+**Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020)**
+
 ---
 
 ## Introduction
