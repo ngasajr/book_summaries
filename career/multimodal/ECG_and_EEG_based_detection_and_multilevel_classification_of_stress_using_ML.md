@@ -1,4 +1,7 @@
 # Summary of *ECG and EEG based detection and multilevel classification of stress using machine learning for specified genders: A preliminary study*
+**Accepted: July 27, 2023**
+**Published: September 1, 2023**
+**https://pmc.ncbi.nlm.nih.gov/articles/PMC10473514/**
 
 ---
 
