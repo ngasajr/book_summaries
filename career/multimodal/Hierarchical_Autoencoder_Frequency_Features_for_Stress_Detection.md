@@ -1,7 +1,7 @@
 # Summary of *Hierarchical Autoencoder Frequency Features for Stress Detection*
 
 ---
-### *Kuttala, Radhika, Ramanathan Subramanian, and Venkata Ramana Murthy Oruganti. "Hierarchical Autoencoder Frequency Features for Stress Detection." IEEE Access (2023).*
+#### *Kuttala, Radhika, Ramanathan Subramanian, and Venkata Ramana Murthy Oruganti. "Hierarchical Autoencoder Frequency Features for Stress Detection." IEEE Access (2023).*
 
 ---
 
