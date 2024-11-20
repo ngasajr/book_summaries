@@ -12,12 +12,12 @@ Brian Tracy is the Chairman and CEO of Brian Tracy International, a company dedi
 
 ## About The Book
 ```python
-“Throughout my career, I have found a simple truth. The ability to concentrate single-mindedly
-on your most important task, to do it well and to finish it completely, is the key to great success,
-achievement, respect, status, and happiness in life. This key insight is the heart and soul of this book […]
+“Throughout my career, I have found a simple truth. The ability to concentrate single-mindedly on your most important task,
+to do it well and to finish it completely, is the key to great success, achievement, respect, status, and happiness in life.
+This key insight is the heart and soul of this book […]
 
-The key to success is action. These principles work to bring about fast, predictable improvements in
-performance and results. The faster you learn and apply them, the faster you will move ahead in your career—guaranteed.
+The key to success is action. These principles work to bring about fast, predictable improvements in performance and results.
+The faster you learn and apply them, the faster you will move ahead in your career—guaranteed.
 
 There will be no limit to what you can accomplish when you learn how to ‘Eat That Frog!'”
 ```
