@@ -22,23 +22,171 @@ The faster you learn and apply them, the faster you will move ahead in your care
 There will be no limit to what you can accomplish when you learn how to ‘Eat That Frog!'”
 ```
 
-## Atomic Habits Summary at Glance
+Brian Tracy is probably one of the most influential self-help gurus, alongside Tony Robbins, Stephen Covey, and Dale Carnegie. His little book, Eat That Frog!, is a gem for anyone who wants to “get more of the important things done today.”
 
-*“If you can get 1 percent better each day for one year, you’ll end up thirty-seven times better by the time you’re done. Conversely, if you get 1 percent worse each day for one year, you’ll decline nearly down to zero.”*
+Renowned for its impactful and straightforward approach, Eat That Frog! offers timeless advice for anyone looking to conquer procrastination and maximize efficiency. Tracy’s wisdom has guided countless individuals toward achieving their goals, making it an essential read for productivity enthusiasts.
 
-Atomic Habits by James Clear is a book that talks about the power of small habits in creating lasting changes in your life. Unlike generic and repetitive motivational books, this book tells you that real change comes from countless small decisions, not just motivation. 
+The central theme of the book revolves around tackling your most daunting tasks first—the ones that will have the most significant impact on your productivity. By addressing these high-priority tasks at the start of your day, you set a tone of accomplishment and momentum that carries you through other tasks with greater ease. Tracy provides 21 practical steps to help readers identify their “frogs” and develop habits that turn them into productivity powerhouses.
 
-A considerable emphasis is given to building a system instead of focusing on goals. 
+It’s a quick read, very practical, and thought-provoking. I personally enjoyed the book a lot and strongly recommend it to anyone who wants to be more productive in life. Whether you are a student, an entrepreneur, or a busy parent juggling work and family, Eat That Frog! will help you build great habits and level up your life.
 
-With exceptional storytelling, personal anecdotes, and real-life examples, Clear takes you on a journey of self-improvement. Every concept you learn about is backed by scientific research, making it clearer that you will achieve results.
+As you can imagine, the book is bursting with fantastic insights. In these notes, we’ll cover just a few of my favourites.
 
-Whether it’s the habit loop, 2-minute rule, identity-based approach, habit stacking, or most of the other concepts, they all have a reason why they work. 
+Let’s jump straight in.
 
-Clear also breaks commonly followed notions like chasing immediate positive changes. Instead, he explains how you need to improve by 1% every day consistently. For instance, if you go to the gym one day, you won’t build your abs. But consistently going to the gym for four weeks will positively change your body. 
+## Key Insights:
+### The Frogs and Why To Eat Them
 
-He also breaks the myth that habit is an endpoint. He explains how taking a cab to the gym is what builds the habit rather than the end point of reaching the gym. Clear gives examples of some of the greatest achievements in different fields and brilliantly connects the dots to help you understand how these tactics work no matter what stage you are at. 
+```python
+“Mark Twain once said that if the first thing you do each morning is to eat a live frog, you can go through the day with the satisfaction
+of knowing that that is probably the worst thing that is going to happen to you all day long.
 
-So, Atomic Habits is your go-to- guide if you’re stuck in a bad habit labyrinth or find yourself asking, “Why on earth do I do that?”. Whether you’re already achieving and craving more, or just aiming to improve and grow, this book can help. 
+Your “frog” is your biggest, most important task, the one you are most likely to procrastinate on if you don’t do something about it. It is
+also the one task that can have the greatest positive impact on your life and results at the moment.”
+```
+
+This concept is brilliant, and it’s all about building the habit of tackling the most difficult task first thing in the morning. To be productive, we must resist the temptation to do easy tasks first.
+
+Now, most of us procrastinate. Why? Because we’re inherently lazy—our brains are wired to avoid hard things. That’s what the Nobel-winning psychologist Daniel Kahneman described as “the law of the least effort.”
+
+That’s why important tasks often migrate from one to-do list to another until we’re forced to act under pressure. The key to being productive in life and work is to discipline yourself to do the hardest tasks before moving on to something else.
+
+So here is the **Eat That Frog concept** in its essence:
+```python
+“The key to reaching high levels of performance and productivity is to develop the lifelong habit of tackling your major task first thing
+each morning. You must develop the routine of “eating your frog” before you do anything else and without taking too much time to think about it.”
+```
+
+**Question for you:** What is your number one task for today? How are you getting on?
+
+That leads us to the next insight.
+
+### Habits For Success
+```python
+“Your success in life and work will be determined by the kinds of habits that you develop over time. The habit of setting priorities,
+overcoming procrastination, and getting on with your most important task is a mental and physical skill. As such, this habit is learnable
+through practice and repetition, over and over again, until it locks into your subconscious mind and becomes a permanent part of your behavior.
+Once it becomes a habit, it becomes both automatic and easy to do.”
+```
+
+Habits are the building blocks of success. They’re like the scaffolding that supports your goals. If you want to boost your productivity, you need to pay close attention to your habits.
+
+First step? Develop three key qualities: **decision, discipline, and determination:**
+```python
+“First, make a decision to develop the habit of task completion. Second, discipline yourself to practice the principles you are about
+to learn over and over until they become automatic. And third, back everything you do with determination until the habit is locked in
+and becomes a permanent part of your personality.”
+```
+
+Now, let’s have a quick look at the 21 Productivity Habits.
+
+P.S.: If you want to learn how to build great habits, I strongly recommend checking out our notes on [Atomic Habits](https://github.com/ngasajr/book_summaries/blob/main/life/Atomic_Habits_Summary.md) by James Clear and The Compound Effect by Darren Hardy.
+
+
+### 21 Productivity Habits
+
+In the book, Tracy dedicates each chapter to one of the 21 Productivity Habits. Here they are in a nutshell:
+
+**1. Set the Table.**
+Know what you want. Write out your goals before you even start.
+
+**2. Plan Each Day in Advance.**
+Don’t go with a flow – plan it out. Every minute you spend planning saves you ten in execution.
+
+**3. Apply the 80/20 Rule to Everything.**
+20 per cent of your tasks get you 80 per cent of your results. Focus on that crucial 20 per cent.
+
+**4. Consider the Consequences.**
+Your most important tasks and priorities are those that have the most serious consequences on your life and work. Focus on these above anything else.
+
+**5. Practice Creative Procrastination.**
+Procrastinate on the low-value tasks, so you can tackle the ones that matter..
+
+**6. Use the ABCDE Method Continually.**
+Before you start, rank your tasks by value and priority to stay focused on what’s important.
+
+**7. Focus On Key Result Areas.**
+Know what results you need to nail your job and work on them all day.
+
+**8. Apply The Law Of Three.**
+Identify the three things you do in your work that account for 90 per cent of your contribution, and focus on getting them done before any other task.
+
+**9. Prepare Thoroughly Before You Begin.**
+Have everything ready to go before you start. Gather all your info, papers, and materials so you can hit the ground running.
+
+**10. Take It One Step at a Time.**
+Break big tasks into smaller, manageable steps and focus on progress.
+
+**11. Upgrade Your Key Skills.**
+The better you get at your main tasks, the quicker you’ll get them done.
+
+**12. Leverage Your Special Talents.**
+Know your strengths and focus on excelling at them.
+
+**13. Identify Your Key Constraints.**
+Find the bottlenecks slowing you down and work on fixing them.
+
+**14. Put The Pressure On Yourself.**
+Create urgency. Pretend you’re about to leave town for a long holiday and must finish your most important tasks before you go.
+
+**15. Maximize Your Personal Powers.**
+Know your peak times for mental and physical energy and tackle your most important tasks then.
+
+**16. Motivate Yourself Into Action.**
+Be your own cheerleader. Develop optimism and focus on the solution rather than the problem.
+
+**17. Stop Technological Time Sinks.**
+Make technology work for you, not the other way around. Turn off your devices occasionally.
+
+**18. Slice And Dice The Task.**
+Break complex tasks into bite-sized pieces, then start with one small part.
+
+**19. Create Large Chunks Of Time.**
+Organize your days into time blocks for deep work on important tasks.
+
+**20. Develop A Sense Of Urgency.**
+Get into the habit of moving fast on your top tasks.
+
+**21. Single-Handle Every Task.**
+```python
+“Set clear priorities, start immediately on your most important task, and then work without stopping until the job is 100 percent
+complete. This is the real key to high performance and maximum personal productivity.”
+```
+
+If you’re nodding along – awesome. Now comes the hard part – actually implementing these habits.
+
+Here’s a challenge for you: pick three habits that you think will make the most positive impact on your life and try them out. You can use James Clear’s habit formation framework from his great book Atomic Habits.
+
+Let’s dive into a few of my favourites.
+
+**Set The Table**
+```python
+“Before you can determine your “frog” and get on with the job of eating it, you have to decide exactly what you want to achieve in each
+area of your life. Clarity is perhaps the most important concept in personal productivity. The number one reason why some people get more
+work done faster is because they are absolutely clear about their goals and objectives, and they don’t deviate from them. The greater clarity
+you have regarding what you want and the steps you will have to take to achieve it, the easier it will be for you to overcome procrastination,
+eat your frog, and complete the task before you.”
+```
+
+Get this – people who write down their goals achieve way more than those who just… don’t. Like, way more. We’re talking five to ten times more. Now, that sounds crazy, right?
+
+Here’s the thing: writing down your goals isn’t some mystical ritual that grants wishes. It’s more like a punch in the face to your procrastination monster. By putting your goals on paper (or your phone, whatever floats your boat), you’re forcing yourself to get clear on what you actually want. No more fuzzy daydreams, it’s time to get specific.
+
+And let’s be honest, seeing your goals written down in black and white can be a real motivator. It’s like a constant reminder of what you’re working towards. It’s the difference between saying, “I want to get in shape,” and staring down a training plan that says, “Day 1: 20 pushups, go!”
+
+But guess what? Writing your goals down isn’t a guarantee of success. You have to take action, too. Tracy breaks it down into seven steps:
+
+- **Step 1:** Decide exactly what you want.
+- **Step 2:** Write it down.
+- **Step 3:** Set a deadline for your goal; set subheadlines if necessary.
+- **Step 4:** Make a list of everything that you can think of that you are going to have to do to achieve your goal.
+- **Step 5:** Organize the list into a plan.
+- **Step 6:** Take action on your plan immediately.
+- **Step 7:** Resolve to do something every single day that moves you toward your major goal.
+  
+Now it’s your turn – what do you want to achieve? Write it down and start making moves toward your most important goal.
+
+
 
 ---
 
