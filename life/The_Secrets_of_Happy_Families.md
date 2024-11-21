@@ -156,8 +156,11 @@ deepen our connection to those we’re playing with.”
 Feiler turned to Zynga (the fastest growing social gaming company in history) for ideas on how to incorporate more offline games and play in family life (especially while on holiday ☺). In the book, he shares quite a few awesome games ideas, which you can play with your kids (read the book for inspiration). What is key here, all good games have four things in common:
 
 **1.A clear goal** – all players know exactly what they are trying to achieve
+
 **2.Rules** – there are limitations that force creativity and strategic thinking
+
 **3.Feedback** – could be points, scores, etc. – something that shows the progress towards the goal and gives players the motivation to keep playing
+
 **4.Voluntary participation** – the game is fun only when players choose to play
 
 So next time you plan your family holiday, make sure you incorporate some offline gaming ☺ That would turn your holiday into an adventure – kids would definitely remember it for a long time.
@@ -167,6 +170,7 @@ One of the coolest ideas here is to turn your holiday/day out with kids into **�
 Play more on a day to day basis and enjoy your life.
 
 **Key Takeaways:**
+
 1.Be agile – you can start with introducing family meetings into your life.
 
 2.Talk a lot – use every opportunity to engage into a conversation with every family member.
