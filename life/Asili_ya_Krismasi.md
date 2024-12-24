@@ -107,7 +107,7 @@ Krismasi, kama tunavyoijua leo, ni mchanganyiko wa mila za kipagani, historia ya
 
 ---
 
-**4) Refference:**
+**Refference:**
 - [Kwa uelewa zaidi soma hapa](https://rcg.org/sw/vitabu/ttooc-sw.html)
   
 ---
