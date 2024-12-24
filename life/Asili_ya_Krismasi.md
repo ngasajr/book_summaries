@@ -104,3 +104,10 @@ Sehemu hii inachambua mada kuu za kihistoria, kiteolojia, na kitamaduni zinazohu
 ### Hitimisho
 
 Krismasi, kama tunavyoijua leo, ni mchanganyiko wa mila za kipagani, historia ya kisasa, na maadili ya kidunia. Ufahamu huu wa kina unawahimiza Wakristo na wote wanaosherehekea kutafakari mizizi ya sherehe hii na kuzingatia njia bora za kuimarisha maisha ya kiroho na kihistoria kwa mujibu wa ukweli wa maandiko.
+
+---
+
+**4) Refference:**
+- [Kwa uelewa zaidi soma hapa](https://rcg.org/sw/vitabu/ttooc-sw.html)
+  
+---
