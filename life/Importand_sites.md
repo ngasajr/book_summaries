@@ -42,19 +42,6 @@ Visualizing the confusion matrix to interpret model performance.
 
 ---
 
-### TBD
-
-| TBD              | TBD                         |TBD                 |
-|-----------------------|--------------------------------------------|------------------------------------------|
-| TBD     | TBD  | TBD     |
-| TBD      | TBD        | TBD                     |
-| TBD  | TBD                         | TBD  |
-| TBD           | TBD     | TBD             |
-| TBD       | TBD                 | TBD                       |
-| TBD       | TBD              | TBD            |
-
----
-
 ### Overview, Progress, and Plan
 
 TBD
