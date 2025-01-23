@@ -74,7 +74,7 @@ Architectures Visualization:
 ---
 
 **Refferences:**
-- [Ticket_check](https://www.skyscanner.co.kr/)
+- [Ticket_check_Skyscanner](https://www.skyscanner.co.kr/)
 - [Hierachical Puzzle Learning Machine](https://www.sciencedirect.com/science/article/pii/S1746809423000575)
 - [Shuffled_ECA_Net](https://www.sciencedirect.com/science/article/pii/S0010482524013027)
   
